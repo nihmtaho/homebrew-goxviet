@@ -2,7 +2,7 @@ cask "vietnamese-ime" do
   version "1.0.1"
   sha256 "bbe44e7b818d04eb5eecb6a9933d4cb3fb3133d4435bf854f0741f641ca11ba5"
 
-  url "https://github.com/nihmtaho/vietnamese-ime/releases/download/v1.0.1/VietnameseIME-1.0.1-unsigned.dmg"
+  url "https://github.com/nihmtaho/vietnamese-ime-hp/releases/download/v1.0.1/VietnameseIME-1.0.1-unsigned.dmg"
   name "Vietnamese IME"
   desc "Fast Vietnamese input method editor for macOS"
   homepage "https://github.com/YOURUSERNAME/vietnamese-ime"
