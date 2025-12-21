@@ -1,6 +1,6 @@
 cask "goxviet" do
   version "1.2.2"
-  sha256 "9dcaed86b3e44008e5731b7f4872cefe5651227e7a456b619f9a4d0fedde498b"
+  sha256 "2d2df064dc5694b5c26ce00beca2294293844fad1b2acaba1f0e9c9d39349d6c"
 
   url "https://github.com/nihmtaho/goxviet-ime/releases/download/v1.2.2/GoxViet-1.2.2-unsigned.dmg"
   name "Gõ Việt (GoxViet)"
