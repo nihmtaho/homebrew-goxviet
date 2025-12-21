@@ -1,8 +1,8 @@
 cask "goxviet" do
-  version "1.2.0"
-  sha256 "1209af22d05d62fd0468044c3d779d091ce6233065141b7493be68b4aca17f9f"
+  version "1.2.2"
+  sha256 "9dcaed86b3e44008e5731b7f4872cefe5651227e7a456b619f9a4d0fedde498b"
 
-  url "https://github.com/nihmtaho/goxviet-ime/releases/download/v1.2.0/GoxViet-1.2.0-unsigned.dmg"
+  url "https://github.com/nihmtaho/goxviet-ime/releases/download/v1.2.2/GoxViet-1.2.2-unsigned.dmg"
   name "Gõ Việt (GoxViet)"
   desc "Fast Vietnamese input method editor for macOS"
   homepage "https://github.com/YOURUSERNAME/goxviet"
@@ -19,7 +19,7 @@ cask "goxviet" do
   postflight do
     puts ""
     puts "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    puts "  Gõ Việt (GoxViet) v1.2.0 installed successfully!"
+    puts "  Gõ Việt (GoxViet) v1.2.2 installed successfully!"
     puts "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     puts ""
     puts "⚠️  IMPORTANT: Gatekeeper Bypass Required"
